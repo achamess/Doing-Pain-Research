@@ -1,6 +1,7 @@
 # Summary
 
 * [Introduction](README.md)
+
 * [Microscopy](microscopy.md)
   * Immunohistochemistry
   * In situ hybridization
@@ -17,27 +18,22 @@
   * [Gene Expression Analysis](gene-expression-analysis.md)
   * [Protein Analysis](protein-methods.md)
 
-Animal Models of Pain
+* Animal Models of Pain
+  * [Inflammatory Models](inflammatory-models.md)
+  * Acute Nociceptive Models
+  * [Nerve Injury Models of Neuropathic Pain](nerve-injury-models-of-neuropathic-pain.md)
+  * Neuropathic Pain Models
 
-* [Inflammatory Models](inflammatory-models.md)
-* Acute Nociceptive Models
-* [Nerve Injury Models of Neuropathic Pain](nerve-injury-models-of-neuropathic-pain.md)
-* Neuropathic Pain Models
+* Gene Transfer
+  * Introduction
+  * Viral Vectors
+    * Adeno-associated virus \(AAV\)
+    * Herpes Simplex Virus
+    * Lentivirus
 
-Gene Transfer
-
-* Introduction
-* Viral Vectors
-  * Adeno-associated virus \(AAV\)
-  * Herpes Simplex Virus
-  * Lentivirus
-
-Manipulating Neuronal Activity
-
-* Optogenetics
-* Chemogenetics
-
-Further Reading
+* Manipulating Neuronal Activity
+  * Optogenetics
+  * Chemogenetics
 
 
 
