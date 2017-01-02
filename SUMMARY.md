@@ -1,3 +1,7 @@
 # Summary
 
-* [First Chapter](chapter1.md)
+* [Introduction](README.md)
+* Electrophysiology
+* [Behavior](behavior.md)
+* Molecular\/Cellular Techniques
+
