@@ -1,11 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
+* [Behavior Analysis](behavior.md)
+    * Mechanical Assays
+    * [Thermal Assays](thermal-assays.md)
+    * Chemical Assays
 * [Electrophysiology](electrophysiology.md)
-* [Behavior](behavior.md)
+    * Primary Dorsal Root Ganglia
+    * Spinal Cord Slice Electrophysiology
+* [Microscopy](microscopy.md)
+    * Immunohistochemistry
+    * In situ hybridization
 * [Molecular and Cellular Techniques](molecularcellular-techniques.md)
-    * Gene Expression Analysis
+    * [Gene Expression Analysis](gene-expression-analysis.md)
     * [Protein Analysis](protein-methods.md)
-    * Primary Cell Culture of Sensory Neurons
-* Microscopy
+* Animal Models of Pain
+    * Nerve Injury Models of Neuropathic Pain
+    * Inflammatory Models
+    * Acute Nociceptive Models
 
