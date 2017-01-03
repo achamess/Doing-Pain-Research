@@ -6,23 +6,13 @@ Nearly all inflammatory models involve the delivery of a substance that is used 
 
 ### Complete Freund's Adjuvant \(CFA\)
 
-
+CFA consists of a suspension of mycobacterial particles in oil. It has been traditionally used as an adjuvant when co-administered with antigens. When injected into any part of the body of a rodent, CFA will induce an inflammatory response marked by pronounced edema and redness. Pain hypersensitivity \(mechanical, thermal\) appears within 6 hours of administration and can last for several weeks. 
 
 ### Zymosan
 
-
-
-### Carrageenan 
-
-
+### Carrageenan
 
 ### 
-
-
-
-
-
-
 
 
 
