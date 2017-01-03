@@ -29,6 +29,6 @@
         * Lentivirus
     * Non-Viral Methods of Gene Transfer
 * Manipulating Neuronal Activity
-    * Optogenetics
+    * [Optogenetics](optogenetics.md)
     * Chemogenetics
 
