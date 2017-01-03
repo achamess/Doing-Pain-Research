@@ -16,12 +16,12 @@
 * [Molecular and Cellular Techniques](molecularcellular-techniques.md)
     * [Gene Expression Analysis](gene-expression-analysis.md)
     * [Protein Analysis](protein-methods.md)
-* Animal Models of Pain
+* [Animal Models of Pain](animal-models-of-pain.md)
     * [Inflammatory Models](inflammatory-models.md)
     * Acute Nociceptive Models
     * [Nerve Injury Models of Neuropathic Pain](nerve-injury-models-of-neuropathic-pain.md)
     * Neuropathic Pain Models
-* Gene Transfer
+* [Gene Transfer](gene-transfer.md)
     * Introduction to Gene Transfer Methods
     * Viral Vectors
         * Adeno-associated virus \(AAV\)
@@ -30,5 +30,5 @@
     * Non-Viral Methods of Gene Transfer
 * Manipulating Neuronal Activity
     * [Optogenetics](optogenetics.md)
-    * Chemogenetics
+    * [Chemogenetics](chemogenetics.md)
 
