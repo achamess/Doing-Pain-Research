@@ -23,9 +23,9 @@
   * Neuropathic Pain Models
 * [Gene Transfer](gene-transfer.md)
   * Introduction to Gene Transfer Methods
-  * Viral Vectors
-    * Adeno-associated virus \(AAV\)
-    * Herpes Simplex Virus
+  * [Viral Vectors](gene-transfer/viral-vectors.md)
+    * [Adeno-associated virus \(AAV\)](gene-transfer/viral-vectors/adeno-associated-virus-aav.md)
+    * [Herpes Simplex Virus](gene-transfer/viral-vectors/herpes-simplex-virus.md)
     * Lentivirus
   * Non-Viral Methods of Gene Transfer
 * Manipulating Neuronal Activity
