@@ -2,9 +2,7 @@
 
 The general setup
 
-```
-{{ 'https://youtu.be/exmTAQtoYOk' | noembed }}
-```
+{{ 'https://youtu.be/exmTAQtoYOk' \| noembed }}
 
 
 
