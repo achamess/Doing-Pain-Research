@@ -1,9 +1,1 @@
-*.*
-!*.md
-!*.txt
-!*.Rmd
-!*.jpg
-!*.tiff
-!*.csv
-!*.png
-!*.html
+*.DS_Store
