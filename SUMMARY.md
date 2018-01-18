@@ -6,7 +6,7 @@
 * [Model Systems]()
 * [Disease Models]()
 * [Behavioral Assays](Behavioral_Assays/README.md)
-	* [Mechanical](Behavioral_assays/Mechanical.md)
+	* [Mechanical](Behavioral_Assays/Mechanical.md)
 	* [Thermal](Behavioral_Assays/Thermal.md)
 	* [Chemical](Behavioral_Assays/Chemical.md)
 	* [Operant Assays](Behavioral_Assays/Operant_Assays.md)
