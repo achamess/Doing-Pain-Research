@@ -1,0 +1,5 @@
+- Get pandoc parser for Gitbook
+- Get YouTube plugin for videos
+- Look for additional CSS themes
+- Add additional stylistic elements
+	- Highlights and callout blocks

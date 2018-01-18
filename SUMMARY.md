@@ -1,34 +1,21 @@
 # Summary
 
 * [Introduction](README.md)
-* [Microscopy](microscopy.md)
-  * Immunohistochemistry
-  * In situ hybridization
-  * Tissue Processing for Microscopy
-* [Behavior Analysis](behavior.md)
-  * [Mechanical Assays](mechanical-assays.md)
-  * [Thermal Assays](thermal-assays.md)
-  * Chemical Assays
-* [Monitoring Neuronal Activity: Electrophysiology and Calcium Imaging](electrophysiology.md)
-  * Primary Dorsal Root Ganglia
-  * [Spinal Cord Slice Electrophysiology](spinal-cord-slice-electrophysiology.md)
-  * [Calcium Imaging](calcium-imaging.md)
-* [Molecular and Cellular Techniques](molecularcellular-techniques.md)
-  * [Gene Expression Analysis](gene-expression-analysis.md)
-  * [Protein Analysis](protein-methods.md)
-* [Animal Models of Pain](animal-models-of-pain.md)
-  * [Inflammatory Models](inflammatory-models.md)
-  * Acute Nociceptive Models
-  * [Nerve Injury Models of Neuropathic Pain](nerve-injury-models-of-neuropathic-pain.md)
-  * Neuropathic Pain Models
-* [Gene Transfer](gene-transfer.md)
-  * Introduction to Gene Transfer Methods
-  * [Viral Vectors](gene-transfer/viral-vectors.md)
-    * [Adeno-associated virus \(AAV\)](gene-transfer/viral-vectors/adeno-associated-virus-aav.md)
-    * [Herpes Simplex Virus](gene-transfer/viral-vectors/herpes-simplex-virus.md)
-    * Lentivirus
-  * Non-Viral Methods of Gene Transfer
-* Manipulating Neuronal Activity
-  * [Optogenetics](optogenetics.md)
-  * [Chemogenetics](chemogenetics.md)
-
+* [A Primer on Pain]()
+* [Experimental Design]()
+* [Model Systems]()
+* [Disease Models]()
+* [Behavioral Assays](/Behavioral_Assays/README.md)
+	* [Mechanical](Behavioral_assays/Mechanical.md)
+	* [Thermal](/Behavioral_Assays/Thermal.md)
+	* [Chemical](/Behavioral_Assays/Chemical.md)
+	* [Operant Assays](/Behavioral_Assays/Operant_Assays.md)
+* [Molecular and Cellular Assays]()
+* [Microscopy]()
+* [Omics]()
+* [Gene Delivery and Manipulation]()
+* [Electrophysiology]()
+* [Monitoring Neural Activity]()
+* [Human Imaging]()
+* [Clinical Pain Research]()
+* [Data Analysis]()
