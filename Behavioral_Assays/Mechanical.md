@@ -57,11 +57,26 @@ So for example, begin with the #5 filament in a VFM kit (contains 20, usually).
 7# Response 
 
 
-
 ## Pin Prick
+
+A sharp, pointed object, such as an insect pin or injection needle, is applied to a surface, usually the plantar hindpaw. The typical response is a brisk withdrawal of the stimulated area (e.g. paw withdrawal). Responses can also be accompanied by other nocifensive behaviors such as biting or licking. 
+
+
+### From the Literature
+
+[@Arcourt:2017jr]
+ 
+- Uses an insect pin on a 1g VFM on the paw. Attaching the insect pin to the VFM controls the maximal force of the pin, but it does not control the rate of force. Still, it allow for consistency of max force.
+
+[@Peirs:2015jm]
+
+> Animals were first placed in a square Plexiglas chamber on top of a wire mesh table. Animals were acclimated to this testing arena for 1 hour on the day prior to testing and for an additional 30 minutes immediately before testing. A small insect pin (tip diameter = 0.03 mm) was applied with minimal pressure to the plantar surface of the left hind paw, taking care not to penetrate the skin. If the animal showed aversive behavior (lifting, shaking, licking of the paw) a positive response was recorded. A negative response was recorded if the animal showed no such reaction within 2 seconds of application. The application was repeated 10 times with a 5-minute interval between applications, and a percentage positive response determined for each animal.
 
 
 ## Brush Assay
+
+[@Duan:2014gy]
+
 
 
 
